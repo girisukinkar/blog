@@ -29,9 +29,6 @@ const HomePage = ({ data, location }) => {
         <div>
           <h1>{title}</h1>
           <p>{description}</p>
-          <a href={twitter} target="__blank">
-            <TwitterIcon className="about__social-links" />
-          </a>
           <a href={github} target="__blank">
             <GithubIcon className="about__social-links" />
           </a>
