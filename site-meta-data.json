@@ -2,9 +2,12 @@
   "title": "Girish Sukinkar Blog",
   "siteUrl": "https://girisukinkar.github.io/",
   "email": "gsukinkar@gmail.com",
-  "description": "Just trying to write whatever I encounter in my life",
+  "description": "Hola! Not sure what is the purpose of this blog but hope I find it in the process.\nFocused on making a collection of memorable moments while going through life.",
   "social": {
     "instagram": "http://instagram.com/devilicious.js",
     "github": "https://github.com/girisukinkar"
+  },
+  "home": {
+    "title": "Dreamy Human"
   }
 }
