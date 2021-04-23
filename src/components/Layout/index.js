@@ -14,7 +14,7 @@ const Layout = ({ location, children }) => {
         ©
         {' '}
         {new Date().getFullYear()}
-        , Girish Sukinkar
+        , Girish Sukinkar 
       </footer>
     </div>
   );
