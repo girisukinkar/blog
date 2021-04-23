@@ -5,10 +5,8 @@ import PostsGrid from '../components/PostsGrid';
 import Layout from '../components/Layout';
 import SEO from '../components/seo';
 
-import TwitterIcon from '../../static/twitter.svg';
 import GithubIcon from '../../static/github.svg';
 import InstagramIcon from '../../static/instagram.svg';
-
 import './style.scss';
 
 const HomePage = ({ data, location }) => {
@@ -25,7 +23,7 @@ const HomePage = ({ data, location }) => {
     <Layout location={location} title={title}>
       <SEO title="Home" />
       <section className="about__section">
-        <img src="profile_pic.jpg" alt="Girish Sukinkar Profile Picture" />
+        <img src="img_20200608_192618.jpg" alt="Girish Sukinkar Profile Picture" />
         <div>
           <h1>{title}</h1>
           <p>{description}</p>
